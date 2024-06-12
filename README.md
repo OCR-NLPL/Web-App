@@ -1,7 +1,7 @@
 # URDU OCR WEB APPLICATION
 
 
-![Alt text](web/favicon.png?raw=true "Title")
+![Alt text](assets/ocr_icon.png?raw=true "Title")
 
 ## Overview
 OnlineOCR for Urdu is an application that allows users to scan printed or handwritten Urdu text and convert it into editable digital text.
