@@ -1,6 +1,6 @@
 # URDU OCR WEB APPLICATION
 
-![alt text](https://github.com/[OCR-NLPL]/[Web-App]/blob/[assets]/ocr_icon_new.png?raw=true)
+
 ![Alt text](assets/ocr_icon_new.png?raw=true "Title")
 
 ## Overview
