@@ -1,11 +1,11 @@
-# uocr
+# URDU OCR WEB-APP
 
 
 
 ## Overview
 OnlineOCR for Urdu is an application that allows users to scan printed or handwritten Urdu text and convert it into editable digital text.
 
-# Key Features
+## Key Features
 **High Accuracy:** The OCR engine is optimized for the the Urdu script, including complex ligatures and diacritics, ensuring high accuracy in text recognition.
 
 **Handwritten Text Recognition:** In addition to printed text, the app can also recognize and convert handwritten Urdu text, making it versatile for various use cases.
