@@ -2,7 +2,7 @@
 
 
 
-**Overview**
+## Overview
 OnlineOCR for Urdu is an application that allows users to scan printed or handwritten Urdu text and convert it into editable digital text.
 
 Key Features
@@ -20,7 +20,7 @@ Editing Tools: The app includes basic text editing tools to correct any recognit
 
 User-Friendly Interface: The interface is designed to be intuitive, with simple navigation and clear instructions, making it accessible to users of all ages and technical expertise.
 
-**Use Case**
+## Use Case
 Educational Purposes: Students and teachers can digitize handwritten notes and printed educational materials for easier access and sharing.
 Archiving: Libraries and researchers can use the app to digitize historical Urdu documents and manuscripts, preserving them in digital formats.
 Personal Use: Individuals can convert personal notes, letters, and other documents into editable digital text for organization and storage.
